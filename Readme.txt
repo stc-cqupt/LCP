@@ -7,4 +7,3 @@ Written by Tiecheng Song (tggwin@gmail.com)
 
 1) Download the dataset Outex-TC10 from http://www.outex.oulu.fi/index.php?page=classification
 2) Run TC10LBP/LTP/CLBP/LCP
-3) Run TC10LBP_c/LTP_c/CLBP_c/LCP_c for the results in Table III.
